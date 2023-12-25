@@ -21,7 +21,7 @@ const option = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'Visitor',
+      title: 'Hihi',
       version: '1.0.0',
     },
   },
