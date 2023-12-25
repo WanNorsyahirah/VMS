@@ -59,4 +59,4 @@ jobs:
           app-name: 'BerrNew22'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07036727CB944F2E922236DC73E0CE0F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_550885D43BEB4C919074856B49FCC636 }}
